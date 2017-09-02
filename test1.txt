@@ -1,0 +1,10 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 42C9-D319
+
+ Directory of C:\Users\xyz\Desktop\MyProject
+
+03-09-2017  12.05 AM    <DIR>          .
+03-09-2017  12.05 AM    <DIR>          ..
+03-09-2017  12.05 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  285,714,370,560 bytes free
